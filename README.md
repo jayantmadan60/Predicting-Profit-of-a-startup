@@ -1,6 +1,6 @@
 # Predicting-Profit-of-a-startup
 
-Overview
+#Overview
 In this article, we will be predicting the profit from the startup’s dataset with the features available to us. We’re using the 50-startups dataset for this problem statement and we will be using the concept of Multiple linear regression to predict the profit of startups companies.
 
 How do startups work?
